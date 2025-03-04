@@ -91,6 +91,9 @@ The resolved ticket will disappear from the open tickets tab and appear in the c
 
 <b> We've successfully gone through the life cycle of a ticket from creation to resolution, made changes to the tickets when necessary like assigning the tickets, changing the SLA (Service Level Agreement), and commenting to create a thread of clear communication! </b>
 <br />
+
+---
+Thank you 😊 for taking the time to explore 🔎 this project, it's great to see someone so engaged and curious 💡. Connect with me on [LinkedIn](https://www.linkedin.com/in/heidibolivar/) 🤝 and let's see what we can build together ✨.
 <br />
 </p>
 
